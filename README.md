@@ -1,5 +1,8 @@
 # leetcode-grind
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+https://leetcode.com/problem-list/ajnu1zu3/
+leetcode list
+https://neetcode.io/practice
+
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
