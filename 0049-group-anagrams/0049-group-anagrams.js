@@ -14,6 +14,6 @@ var groupAnagrams = function (strs) {
         }
         res[count].push(s)
     }
-    console.log(res)
+
     return Object.values(res)
 };
