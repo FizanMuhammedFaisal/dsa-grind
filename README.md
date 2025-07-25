@@ -9,6 +9,7 @@ https://neetcode.io/practice
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0242-valid-anagram) |
 ## String
@@ -23,5 +24,6 @@ https://neetcode.io/practice
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
