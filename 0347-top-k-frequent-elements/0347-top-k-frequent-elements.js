@@ -14,15 +14,13 @@ var topKFrequent = function (nums, k) {
         arr[hash[n]].push(n)
     }
     const result = []
-    console.log(arr)
-    for (let i=arr.length-1;i>0;i--) {
 
+    for (let i=arr.length-1;i>0;i--) {
       const e=arr[i]
-      console.log(e)
-        if (e.length && result.length < k) {
-            for(let i=0;i<e.length;i++){
+        if (arr[i].length && result.length < k) {
+            for(let j=0;j<arr[i].length;j++){
                 if(result.length<k){
-                    result.push(Number(e[i]))
+                    result.push(Number(arr[i][j]))
                 }
             }
         }
