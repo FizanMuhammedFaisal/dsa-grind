@@ -39,6 +39,7 @@ https://neetcode.io/practice
 | [0036-valid-sudoku](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0049-group-anagrams) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0217-contains-duplicate) |
@@ -96,6 +97,7 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
 | ------- |
