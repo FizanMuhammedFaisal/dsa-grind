@@ -17,6 +17,7 @@ https://neetcode.io/practice
 | [0217-contains-duplicate](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0347-top-k-frequent-elements) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/1392-find-the-difference-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@ https://neetcode.io/practice
 | [0217-contains-duplicate](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0347-top-k-frequent-elements) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
