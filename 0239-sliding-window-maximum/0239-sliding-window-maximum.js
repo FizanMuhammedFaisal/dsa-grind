@@ -4,7 +4,7 @@
  * @return {number[]}
  */
 var maxSlidingWindow = function (nums, k) {
-
+//keeping the queue of values
     const window = [0, k - 1]
     const q = []
     const res = []
@@ -27,26 +27,6 @@ var maxSlidingWindow = function (nums, k) {
 
         r++
     }
-    console.log(res)
 
-    // function getMax(window){
-    //     let max=-Infinity
-    //     for(let i=window[0];i<=window[1];i++){
-    //         if(max <nums[i]){
-    //             max=nums[i]
-    //         }
-    //     }
-    //     return max
-    // }
-    // let max =getMax(window)
-    // for(let i=k;i<=nums.length;i++){
-    //     res.push(max)
-    //     window[0]=window[0]+1
-    //     if
-    //     window[1]=window[1]+1
-    //     if(max<nums[window[1]]){
-    //         max=nums[window[1]]
-    //     }
-    // }
     return res
 };
