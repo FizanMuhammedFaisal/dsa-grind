@@ -123,6 +123,7 @@ https://neetcode.io/practice
 | ------- |
 | [0042-trapping-rain-water](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -147,4 +148,16 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0239-sliding-window-maximum) |
+## Math
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
