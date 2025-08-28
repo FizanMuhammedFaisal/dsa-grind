@@ -20,6 +20,7 @@ https://neetcode.io/practice
 | [0347-top-k-frequent-elements](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0424-longest-repeating-character-replacement) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0567-permutation-in-string) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/1392-find-the-difference-of-two-arrays) |
 ## String
@@ -42,6 +43,7 @@ https://neetcode.io/practice
 | [0242-valid-anagram](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Array
 |  |
 | ------- |
@@ -61,6 +63,7 @@ https://neetcode.io/practice
 | [0239-sliding-window-maximum](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0792-binary-search](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0792-binary-search) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Divide and Conquer
@@ -108,6 +111,7 @@ https://neetcode.io/practice
 | [0165-compare-version-numbers](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
@@ -115,6 +119,7 @@ https://neetcode.io/practice
 | [0074-search-a-2d-matrix](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0792-binary-search](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0792-binary-search) |
 ## Greedy
 |  |
