@@ -34,6 +34,7 @@ https://neetcode.io/practice
 | [0242-valid-anagram](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0567-permutation-in-string) |
+| [0868-push-dominoes](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0868-push-dominoes) |
 ## Sorting
 |  |
 | ------- |
@@ -113,6 +114,7 @@ https://neetcode.io/practice
 | [0350-intersection-of-two-arrays-ii](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0567-permutation-in-string) |
+| [0868-push-dominoes](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0868-push-dominoes) |
 ## Binary Search
 |  |
 | ------- |
@@ -130,6 +132,7 @@ https://neetcode.io/practice
 | ------- |
 | [0042-trapping-rain-water](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0868-push-dominoes](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
