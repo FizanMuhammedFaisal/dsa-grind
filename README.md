@@ -23,6 +23,7 @@ https://neetcode.io/practice
 | [0532-k-diff-pairs-in-an-array](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0567-permutation-in-string) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/1392-find-the-difference-of-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -67,6 +68,7 @@ https://neetcode.io/practice
 | [0532-k-diff-pairs-in-an-array](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0792-binary-search](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0792-binary-search) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/1392-find-the-difference-of-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/3227-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -97,6 +99,7 @@ https://neetcode.io/practice
 | ------- |
 | [0036-valid-sudoku](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0074-search-a-2d-matrix) |
+| [3227-find-missing-and-repeated-values](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/3227-find-missing-and-repeated-values) |
 ## Union Find
 |  |
 | ------- |
@@ -163,6 +166,7 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/1013-fibonacci-number) |
+| [3227-find-missing-and-repeated-values](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/3227-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
