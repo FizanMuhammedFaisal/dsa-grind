@@ -138,6 +138,7 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0094-binary-tree-inorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -170,4 +171,16 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/1013-fibonacci-number) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
