@@ -181,18 +181,21 @@ https://neetcode.io/practice
 | [0094-binary-tree-inorder-traversal](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0113-path-sum-ii) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0113-path-sum-ii) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0113-path-sum-ii) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
