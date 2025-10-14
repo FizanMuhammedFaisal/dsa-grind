@@ -13,7 +13,6 @@
 var flatten = function (root) {
     if (!root) return []
 
-
     flatten(root.left)
     flatten(root.right)
 
