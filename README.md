@@ -17,6 +17,7 @@ https://neetcode.io/practice
 | [0128-longest-consecutive-sequence](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -43,6 +44,7 @@ https://neetcode.io/practice
 | [0015-3sum](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -62,6 +64,7 @@ https://neetcode.io/practice
 | [0128-longest-consecutive-sequence](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0347-top-k-frequent-elements) |
@@ -86,6 +89,7 @@ https://neetcode.io/practice
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
