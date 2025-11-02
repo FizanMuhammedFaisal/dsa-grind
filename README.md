@@ -16,6 +16,7 @@ https://neetcode.io/practice
 | [0076-minimum-window-substring](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0242-valid-anagram) |
@@ -34,6 +35,7 @@ https://neetcode.io/practice
 | [0076-minimum-window-substring](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0165-compare-version-numbers) |
+| [0208-implement-trie-prefix-tree](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0567-permutation-in-string) |
@@ -222,8 +224,13 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0208-implement-trie-prefix-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0146-lru-cache) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
