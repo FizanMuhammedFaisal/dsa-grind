@@ -22,6 +22,7 @@ https://neetcode.io/practice
 | [0242-valid-anagram](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0424-longest-repeating-character-replacement) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0567-permutation-in-string) |
@@ -37,6 +38,7 @@ https://neetcode.io/practice
 | [0165-compare-version-numbers](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0165-compare-version-numbers) |
 | [0208-implement-trie-prefix-tree](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0567-permutation-in-string) |
 | [0868-push-dominoes](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0868-push-dominoes) |
@@ -50,6 +52,7 @@ https://neetcode.io/practice
 | [0242-valid-anagram](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0389-find-the-difference) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Array
 |  |
@@ -233,4 +236,8 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0208-implement-trie-prefix-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
