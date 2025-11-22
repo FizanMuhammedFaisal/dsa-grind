@@ -240,4 +240,8 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0389-find-the-difference) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
