@@ -42,6 +42,7 @@ https://neetcode.io/practice
 | [0424-longest-repeating-character-replacement](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0567-permutation-in-string) |
 | [0868-push-dominoes](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0868-push-dominoes) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sorting
 |  |
 | ------- |
@@ -77,6 +78,7 @@ https://neetcode.io/practice
 | [0532-k-diff-pairs-in-an-array](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0792-binary-search](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0792-binary-search) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/1392-find-the-difference-of-two-arrays) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/3227-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -128,6 +130,7 @@ https://neetcode.io/practice
 | [0532-k-diff-pairs-in-an-array](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0567-permutation-in-string) |
 | [0868-push-dominoes](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0868-push-dominoes) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Binary Search
 |  |
 | ------- |
