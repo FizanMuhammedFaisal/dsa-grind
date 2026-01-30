@@ -2,14 +2,18 @@
  * @param {number[]} nums
  * @return {boolean}
  */
-var containsDuplicate = function(nums) {
-    
-    const hashmap={}
-    for(const num of nums){
-        hashmap[num]=(hashmap[num]||0) +1
-        if(hashmap[num]>1){
+var containsDuplicate = function (nums) {
+
+    const maps = {}
+    for (let n of nums) {
+        maps[n] = (maps[n] || 0) + 1
+    }
+
+    for (let i = 0; i < nums.length; i++) {
+        if (maps[nums[i]] > 1) {
             return true
         }
     }
+
     return false
 };
