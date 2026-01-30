@@ -4,19 +4,23 @@
  * @return {boolean}
  */
 var isAnagram = function (s, t) {
-
-    if (s.length !== t.length) return false
-    const hash = {}
+    const mapt = {}
+    for (let n of t) {
+        mapt[n] = (mapt[n] || 0) + 1
+    }
     for (let i = 0; i < s.length; i++) {
 
-        hash[s[i]] = (hash[s[i]] || 0) + 1
-
-        hash[t[i]] = (hash[t[i]] || 0) - 1
-    }
-    for (const key in hash) {
-        if (hash[key] !== 0) {
+        if (mapt[s[i]]) {
+            mapt[s[i]] -= 1
+            if (mapt[s[i]] === 0) {
+               delete mapt[s[i]]
+            }
+        } else {
             return false
         }
     }
-    return true
+
+    return Object.keys(mapt).length === 0
+
+
 };
