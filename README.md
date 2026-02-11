@@ -126,6 +126,7 @@ https://neetcode.io/practice
 | [0042-trapping-rain-water](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0143-reorder-list) |
 | [0165-compare-version-numbers](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -158,6 +159,7 @@ https://neetcode.io/practice
 | [0042-trapping-rain-water](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0143-reorder-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -186,6 +188,7 @@ https://neetcode.io/practice
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0143-reorder-list) |
 | [1013-fibonacci-number](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -227,6 +230,7 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0146-lru-cache) |
 ## Design
 |  |
