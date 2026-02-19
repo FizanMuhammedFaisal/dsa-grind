@@ -42,6 +42,7 @@ https://neetcode.io/practice
 | [0389-find-the-difference](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0678-valid-parenthesis-string) |
 | [0868-push-dominoes](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0868-push-dominoes) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sorting
@@ -146,11 +147,13 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0678-valid-parenthesis-string) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/FizanMuhammedFaisal/leetcode-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0678-valid-parenthesis-string](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0678-valid-parenthesis-string) |
 | [0868-push-dominoes](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/1013-fibonacci-number) |
 ## Stack
@@ -160,6 +163,7 @@ https://neetcode.io/practice
 | [0094-binary-tree-inorder-traversal](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0143-reorder-list) |
+| [0678-valid-parenthesis-string](https://github.com/FizanMuhammedFaisal/dsa-grind/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
 |  |
 | ------- |
